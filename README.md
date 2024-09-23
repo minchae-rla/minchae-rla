@@ -4,6 +4,8 @@
 
 ![siwoo GitHub stats](https://github-readme-stats.vercel.app/api?username=minchae-rla&show_icons=true&theme=gotham)
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0720kmc)](https://solved.ac/0720kmc)​
+
 
 
 # 📚Skills
