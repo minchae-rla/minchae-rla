@@ -58,5 +58,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:0720kmc@gmail.com)
 [![Notion Badge](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)](https://ninth-polka-125.notion.site/147125e05a8880808f67db24d5644ca0?pvs=4)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://ninth-polka-125.notion.site/147125e05a8880808f67db24d5644ca0?pvs=4)
 
 
